@@ -11,3 +11,4 @@ Further analyses- suggestions:
 
 Scrape details of the movies involved and collect metadata including date of release, sub genre, etc. Then see if there are variations with respect to these variables. 
 Conduct sentiment analyses on the whole script and see if there is a conflict with the scores on future worlds. 
+Split the script into first half and second half and investigate the difference in tone
